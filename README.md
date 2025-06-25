@@ -36,8 +36,8 @@ Sum of Premium by Policy Type:
 📈 Claims Overview
 
 Claims by Status:
- - Rejected, Settled, Pending — shown in bar chart format.
+  - Rejected, Settled, Pending — shown in bar chart format.
 Claim Amount by Age Group:
- - Highest among Adults (~8.8M)
+  - Highest among Adults (~8.8M)
 Claim Summary Table by Policy Type:
- - Total values for Pending, Rejected, Settled claims.
+  - Total values for Pending, Rejected, Settled claims.
